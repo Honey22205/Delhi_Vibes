@@ -1,20 +1,54 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💅 THE DELH-I-AM: GK-II EDITION 💅
 
-# Run and deploy your AI Studio app
+### *"Because your poor life choices deserve an aesthetic roast."*
 
-This contains everything you need to run your app locally.
+Imagine if your judgmental rich cousin from Greater Kailash II and a classic Desi Mom had a baby, and that baby was a high-fashion AI with major attitude. That’s this app. **Literally.**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xWOuIRX_HRlR6wubHQgTmaJVdvJQ8gIb
+---
 
-## Run Locally
+## ✨ THE VIBE (Features)
 
-**Prerequisites:**  Node.js
+*   **The Drama Box:** Type in your life problems, fashion fails, or that text from your ex.
+*   **Aesthetic Mode:** Smooth lo-fi lounge vibes with polite, high-society sarcasm. Very posh, very mindful.
+*   **Savage Mode (The Villain Arc):** The UI turns blood-red, the music turns into an anime villain theme, and the AI personally attacks your social standing. *Major Ick energy.*
+*   **Mom Mode:** One click and the Gen-Z roast translates into a classic Desi Mom scolding. *“Phone chodo aur jaake kaam karo!”*
+*   **Film Grain Aesthetic:** Every pixel is editorial. We don't do basic UI.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ THE RECEIPTS (Tech Stack)
+
+*   **React + Tailwind:** For that silky smooth glassmorphism.
+*   **Google Gemini API:** The brain behind the sass. Using `gemini-3-flash-preview` to judge you at lightning speed.
+*   **Web Audio API:** Seamlessly switching between "Rich Girl Lo-fi" and "Kira-inspired Horror" tracks.
+*   **Hinglish Logic:** Custom prompt engineering to ensure peak South Delhi linguistic accuracy.
+
+---
+
+## 🚀 GETTING ON THE GUESTLIST (Installation)
+
+1.  **Clone the drama:**
+    ```bash
+    git clone https://github.com/your-elite-self/the-delh-i-am.git
+    ```
+2.  **Add your secret sauce:**
+    Create a `.env` file because privacy is *aesthetic*.
+    ```env
+    API_KEY=your_gemini_api_key_here
+    ```
+3.  **Vibe check:**
+    ```bash
+    npm install
+    npm start
+    ```
+
+---
+
+## 🛑 TRIGGER WARNING
+This app may cause:
+*   Sudden realization that your outfit is mid.
+*   Urge to move to Vasant Vihar.
+*   Fear of your own mother.
+*   **Obsession.**
+
+**Stay Iconic. Stay Shook.** 🥂
